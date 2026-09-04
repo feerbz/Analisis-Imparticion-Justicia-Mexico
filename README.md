@@ -21,5 +21,11 @@ Analizar el catálogo de películas y series disponibles en Netflix mediante té
 
 El proyecto utilizará un conjunto de datos obtenido de Kaggle que contiene información sobre películas y series disponibles en Netflix, así como información relacionada con actores y directores.
 
+### Solución propuesta
+
+La solución propuesta contempla las etapas de obtención, limpieza, procesamiento, análisis y visualización de los datos.
+
+[Ver diagrama de arquitectura](docs/arquitectura.png)
+
 
 
