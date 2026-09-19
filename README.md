@@ -75,4 +75,4 @@ En lugar de colecciones de documentos desnormalizados, SQL Server organiza la in
 | **Almacenamiento Analítico** | **Microsoft SQL Server** | Motor de base de datos relacional para el Data Mart dimensional, optimizado con índices por columnas (*Columnstore*). |
 | **Ingesta y Transformación (ETL)** | **Python (Pandas, SQLAlchemy)** | Lectura de archivos CSV, estandarización de tipos, imputación de nulos y carga estructurada mediante sentencias de inserción masiva. |
 | **Modelado y Visualización** | **Power BI Desktop** | Modelado semántico mediante DAX, segmentación interactiva y publicación de tableros ejecutivos. |
-Recuerda que debemos llegar hasta un etl con el dataset que te mandé 
+
