@@ -36,15 +36,10 @@ Diseñar e implementar un **Data Mart relacional bajo un esquema dimensional en 
 
 ### Diagrama de Arquitectura de Extremo a Extremo
 
-El flujo de datos se estructura en un pipeline analítico formal:
+El siguiente diagrama representa la arquitectura propuesta para el Data Mart de Impartición de Justicia Criminal, desde la extracción de los datos originales hasta su explotación analítica en Power BI.
 
-```mermaid
-flowchart LR
-    A[" <b>1. Fuentes Originales</b><br/>CSVs EHRIIJ (INEGI)<br/><i>(404k Hechos + 12 Catálogos)</i>"] -->|"Extracción y Limpieza"| B[" <b>2. Pipeline ETL</b><br/>Python<br/><i>(Pandas / SQLAlchemy)</i>"]
-    B -->|"Carga Estructurada"| C[(" <b>3. Data Mart</b><br/>Microsoft SQL Server<br/><i>(Esquema Dimensional Star)</i>")]
-    C -->|"Conexión Nativa (SQL / DirectQuery)"| D[" <b>4. Explotación Analítica</b><br/>Power BI<br/><i>(Modelado DAX & Tableros)</i>"]
-
-```
+![Diagrama de Arquitectura](docs/arquitectura.png)
+    
 
 ### Estructura del Modelo Dimensional (Star Schema)
 
