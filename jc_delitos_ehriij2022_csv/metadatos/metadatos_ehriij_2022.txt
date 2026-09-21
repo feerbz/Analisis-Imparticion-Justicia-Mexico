@@ -1,0 +1,35 @@
+Identifier: MEX-INEGI.40.1200.03-EHRIIJ-2022
+
+Title: Esquema homologado de recolección de información de impartición de justicia 2022, Censo Nacional de Impartición de Justicia Estatal
+
+Description: INEGI. Esquema homologado de recolección de información de impartición de justicia 2022, Censo Nacional de Impartición de Justicia Estatal.
+
+Tiene como objetivo generar información sobre los expedientes y/o asuntos penales atendidos en sus diversas etapas procesales por los órganos jurisdiccionales de primera instancia del Tribunal Superior de Justicia de cada entidad federativa, así como la cantidad y características de los delitos, víctimas, procesados y/o imputados y sentenciados que se encuentran registrados en las mismas.
+
+La información es obtenida desde los juzgados penales de primera instancia de cada uno de los Tribunales Superiores de Justicia, con el propósito de complementar la información del Censo Nacional de Impartición de Justicia Estatal.
+
+Modified: 2024-01-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/933/data-dictionary
+
+Keyword: "impartición de justicia", "adultos", "adolescentes", "causas penales", "delitos", "íctimas", "imputados", "conclusiones"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2021-01-01-2021-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: www.inegi.org.mx/programas/justiciapenal/
+
+Note: Para georreferenciación de los datos de coordenadas geográficas se utiliza el Sistema de Referencia de Coordenadas (SCR) WGS84 (World Geodetic System 1984), cuyo formato consiste en la representación con dos cifras de latitud y longitud, en positivo para Norte y Este, y negativo para Sur y Oeste.
+
+
